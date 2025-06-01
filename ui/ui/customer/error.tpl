@@ -16,7 +16,7 @@
         <div class="panel panel-danger">
             <div class="panel-heading">{ucwords(Lang::T("Internal Error"))}</div>
             <div class="panel-body">
-                {Lang::T("Sorry, the software failed to process the request, if it still happening, please tell")}
+                {Lang::T("Sorry, the software failed to process the request, if it still happening, please contact support")}
                 {$_c['CompanyName']}
             </div>
             <div class="panel-footer">

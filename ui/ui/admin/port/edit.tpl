@@ -18,7 +18,7 @@
 						<label class="col-md-2 control-label">{Lang::T('Public IP')}</label>
 						<div class="col-md-6">
 							<input type="text" class="form-control" id="public_ip" name="public_ip"
-								value="{$d['public_ip']}" placeholder="12.34.56.78">
+								value="{$d['public_ip']}" placeholder="">
 						</div>
 					</div>
 					<div class="form-group">
